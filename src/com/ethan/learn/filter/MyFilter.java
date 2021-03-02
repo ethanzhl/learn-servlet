@@ -1,4 +1,4 @@
-package com.ethan.learn.servlet.filter;
+package com.ethan.learn.filter;
 
 import javax.servlet.*;
 import java.io.IOException;

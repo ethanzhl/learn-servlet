@@ -1,4 +1,4 @@
-package com.ethan.learn.servlet.listener;
+package com.ethan.learn.listener;
 
 import javax.servlet.ServletRequestEvent;
 
