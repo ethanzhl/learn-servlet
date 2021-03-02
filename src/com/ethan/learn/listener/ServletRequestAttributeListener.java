@@ -8,7 +8,7 @@ import javax.servlet.ServletRequestAttributeEvent;
  */
 public class ServletRequestAttributeListener implements javax.servlet.ServletRequestAttributeListener {
     public ServletRequestAttributeListener() {
-        System.out.println("ServletRequestAttributeListener");
+        System.out.println("ServletRequestAttributeListener constructor ...");
         System.out.println("-------------------------------");
     }
 

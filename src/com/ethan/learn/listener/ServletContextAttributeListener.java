@@ -8,7 +8,7 @@ import javax.servlet.ServletContextAttributeEvent;
  */
 public class ServletContextAttributeListener implements javax.servlet.ServletContextAttributeListener {
     public ServletContextAttributeListener() {
-        System.out.println("ServletContextAttributeListener");
+        System.out.println("ServletContextAttributeListener constructor ...");
         System.out.println("-------------------------------");
     }
 

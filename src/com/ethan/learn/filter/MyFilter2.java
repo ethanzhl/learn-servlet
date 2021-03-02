@@ -9,7 +9,7 @@ import java.io.IOException;
  */
 public class MyFilter2 implements Filter {
     public MyFilter2() {
-        System.out.println("MyFilter2");
+        System.out.println("MyFilter2 constructor ...");
         System.out.println("-------------------------------");
     }
 

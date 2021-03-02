@@ -8,7 +8,7 @@ import javax.servlet.http.HttpSessionBindingEvent;
  */
 public class HttpSessionBindingListener implements javax.servlet.http.HttpSessionBindingListener {
     public HttpSessionBindingListener() {
-        System.out.println("HttpSessionBindingListener ...");
+        System.out.println("HttpSessionBindingListener constructor ...");
         System.out.println("-------------------------------");
     }
 

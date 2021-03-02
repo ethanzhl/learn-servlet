@@ -8,7 +8,7 @@ import javax.servlet.http.HttpSessionEvent;
  */
 public class HttpSessionActivationListener implements javax.servlet.http.HttpSessionActivationListener {
     public HttpSessionActivationListener() {
-        System.out.println("HttpSessionActivationListener ...");
+        System.out.println("HttpSessionActivationListener constructor ...");
         System.out.println("-------------------------------");
     }
 

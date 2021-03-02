@@ -8,7 +8,7 @@ import javax.servlet.ServletRequestEvent;
  */
 public class ServletRequestListener implements javax.servlet.ServletRequestListener {
     public ServletRequestListener() {
-        System.out.println("ServletRequestListener");
+        System.out.println("ServletRequestListener constructor ...");
         System.out.println("-------------------------------");
     }
 

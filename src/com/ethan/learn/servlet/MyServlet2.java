@@ -9,7 +9,7 @@ import java.io.IOException;
  */
 public class MyServlet2 implements Servlet {
     public MyServlet2() {
-        System.out.println("MyServlet2");
+        System.out.println("MyServlet2 constructor ...");
         System.out.println("-------------------------------");
     }
 

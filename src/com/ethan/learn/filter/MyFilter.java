@@ -10,7 +10,7 @@ import java.io.IOException;
 public class MyFilter implements Filter {
 
     public MyFilter() {
-        System.out.println("MyFilter");
+        System.out.println("MyFilter constructor ...");
         System.out.println("-------------------------------");
     }
 

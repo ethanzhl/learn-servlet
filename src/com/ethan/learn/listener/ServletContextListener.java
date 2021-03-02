@@ -8,7 +8,7 @@ import javax.servlet.ServletContextEvent;
  */
 public class ServletContextListener implements javax.servlet.ServletContextListener {
     public ServletContextListener() {
-        System.out.println("ServletContextListener");
+        System.out.println("ServletContextListener constructor ...");
         System.out.println("-------------------------------");
     }
 
